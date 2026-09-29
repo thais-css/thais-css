@@ -12,11 +12,7 @@ With 15+ years of professional experience and more than five years in Customer C
 
 A local Python and Flask application that turns complex data archives into consistent, password-protected delivery packages. It replaced a manual workflow of browsing JSON files, preparing spreadsheets, converting documents and protecting files in separate steps.
 
-### Job opportunity radar · in progress
-
-An n8n automation that collects roles from selected companies, applies relevance rules, deduplicates results and produces a useful job-search digest.
-
-## What I am building toward
+## Focus
 
 - Operations workflows that reduce repetitive manual work
 - Internal tools that make complex processes easier to run
