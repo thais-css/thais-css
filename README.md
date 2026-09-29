@@ -12,6 +12,10 @@ With 15+ years of professional experience and more than five years in Customer C
 
 A local Python and Flask application that turns complex data archives into consistent, password-protected delivery packages. It replaced a manual workflow of browsing JSON files, preparing spreadsheets, converting documents and protecting files in separate steps.
 
+### [NutriComp](https://thais-css.github.io/nutricomp.html)
+
+A mobile-first PWA that compares two grocery products against nutritional priorities selected by the person using it. It combines barcode scanning, public product data and transparent priority-weighted comparison logic.
+
 ## Focus
 
 - Operations workflows that reduce repetitive manual work
