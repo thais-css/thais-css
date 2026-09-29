@@ -16,6 +16,10 @@ A local Python and Flask application that turns complex data archives into consi
 
 A mobile-first PWA that compares two grocery products against nutritional priorities selected by the person using it. It combines barcode scanning, public product data and transparent priority-weighted comparison logic.
 
+### [Wellbeing reporting agent](https://thais-css.github.io/wellbeing-agent.html)
+
+An AI agent that creates personalised weekly wearable-data reports, combining scheduled retrieval, aggregate history, visual reporting and explicit privacy and safety boundaries.
+
 ## Focus
 
 - Operations workflows that reduce repetitive manual work
