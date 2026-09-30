@@ -20,6 +20,14 @@ A mobile-first PWA that compares two grocery products using the priorities selec
 
 An AI agent that creates weekly reports from authorised aggregate wearable data. It retrieves data on a schedule, keeps a history and produces a visual report with clear limits.
 
+### [Mercado Claro](https://thais-css.github.io/mercado-claro.html)
+
+A personal app for understanding grocery spending and comparing equivalent products across supermarkets. It turns receipt PDFs into editable records, standardises products and compares prices by kilo, litre or unit.
+
+### [Home workout app](https://thais-css.github.io/home-workout-app.html)
+
+A local-first mobile PWA for planning and recording home strength workouts. It keeps sessions, timers and history on the device, without requiring an account.
+
 ## Portfolio
 
 → [thais-css.github.io](https://thais-css.github.io)
