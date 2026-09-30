@@ -2,29 +2,23 @@
 
 **Operations · Automation · Internal tools**
 
-I build practical systems that turn fragile manual processes into reliable workflows.
+I build practical tools for operational work: clearer processes, less manual repetition and systems people can actually use.
 
-With 15+ years of professional experience and more than five years in Customer Care and Operations, I work across process improvement, sensitive-data workflows, support tooling and multilingual operations. I am expanding my hands-on work with automation, Python and practical AI.
+I have 15+ years of professional experience, including more than five years in Customer Care and Operations. My work includes process improvement, sensitive-data workflows, support tooling and multilingual operations, alongside hands-on work with automation, Python and AI.
 
 ## Selected work
 
 ### [Privacy-first data processing tool](https://thais-css.github.io/privacy-processing.html)
 
-A local Python and Flask application that turns complex data archives into consistent, password-protected delivery packages. It replaced a manual workflow of browsing JSON files, preparing spreadsheets, converting documents and protecting files in separate steps.
+A local Python and Flask application that prepares consistent, password-protected delivery packages from complex data archives. It replaces a process of browsing JSON files, building spreadsheets and preparing files in separate tools.
 
 ### [NutriComp](https://thais-css.github.io/nutricomp.html)
 
-A mobile-first PWA that compares two grocery products against nutritional priorities selected by the person using it. It combines barcode scanning, public product data and transparent priority-weighted comparison logic.
+A mobile-first PWA that compares two grocery products using the priorities selected by the person using it. It combines barcode scanning, public product data and clear comparison logic.
 
 ### [Wellbeing reporting agent](https://thais-css.github.io/wellbeing-agent.html)
 
-An AI agent that creates personalised weekly wearable-data reports, combining scheduled retrieval, aggregate history, visual reporting and explicit privacy and safety boundaries.
-
-## Focus
-
-- Operations workflows that reduce repetitive manual work
-- Internal tools that make complex processes easier to run
-- Privacy-conscious automation for sensitive workflows
+An AI agent that creates weekly reports from authorised aggregate wearable data. It retrieves data on a schedule, keeps a history and produces a visual report with clear limits.
 
 ## Portfolio
 
